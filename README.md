@@ -1,4 +1,5 @@
 BitMiles Home (Official) : http://bitmiles.org/
+POD-CryptoAsian (verification purposes)
 
 ![BitMiles Logo](http://i62.tinypic.com/v7xkck.png "BitMiles Logo")
 
